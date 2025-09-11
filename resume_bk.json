@@ -167,53 +167,42 @@
   ],
   "skills": [
     {
-      "name": "Languages",
+      "name": "Backend",
       "keywords": [
-        "TypeScript",
-        "Node.JS",
+        "TypeScript/NodeJS",
         "Golang",
         "Python",
-        "HTML/CSS",
-        "Bash"
-      ]
-    },
-    {
-      "name": "Technologies",
-      "keywords": [
         "NestJS",
-        "Vue",
-        "React",
-        "Django",
         "Jest",
-        "jQuery",
-        "RabbitMQ",
-        "Kafka",
-        "Docker",
-        "Git",
-        "JWT"
-      ]
-    },
-    {
-      "name": "Databases",
-      "keywords": [
         "MySQL",
         "PostgreSQL",
-        "MongoDB",
         "Redis",
         "BoltDB",
-        "BadgerDB",
         "SQLite"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "keywords": [
+        "Vue",
+        "React",
+        "HTML/CSS/SASS/SCSS",
+        "jQuery",
+        "Bootstrap"
       ]
     },
     {
       "name": "Others",
       "keywords": [
+        "RabbitMQ",
+        "Kafka",
+        "Docker",
         "WebSockets",
         "Jira",
         "GitLab CI/CD",
-        "Linux",
-        "Clean Code",
-        "TDD"
+        "Git",
+        "JWT",
+        "Linux"
       ]
     }
   ],

@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compile": "resume export --theme=jsonresume-theme-stackoverflow index.html && sed -i 's/&lt;/</g' index.html && sed -i 's/&gt;/>/g' index.html"
+    "compile": "resume export --theme=jsonresume-theme-stackoverflow index.html && sed -i 's/&lt;/</g' index.html && sed -i 's/&gt;/>/g' index.html && node format.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "jsonresume-theme-stackoverflow": "^2.0.2",
-    "resume-cli": "^3.0.8"
+    "resume-cli": "^3.0.0"
   }
 }
