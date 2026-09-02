@@ -179,10 +179,8 @@
       "name": "Technologies",
       "keywords": [
         "NestJS",
-        "Vue",
         "React",
         "Jest",
-        "jQuery",
         "RabbitMQ",
         "Docker",
         "Git",

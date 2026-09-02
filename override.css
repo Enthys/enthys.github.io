@@ -1,15 +1,23 @@
 #skills {
-    justify-content: space-between !important;
-    margin-bottom: 0;
+    margin: 0;
+    padding-right: 5px;
+    flex-wrap: wrap;
 }
 
 #skills .item {
     text-align: center;
-    width: 25% !important;
+    flex: 1 0 calc(25% - 1px);
     margin: 0 !important;
     padding: 0 !important;
+    border-right: 0.5px solid #ddd;
+    border-left: 0.5px solid #ddd;
+    box-sizing: border-box;
 }
 
 #skills .item:last-child {
     border-right: none;
+}
+
+#skills .item:first-child {
+    border-left: none;
 }
