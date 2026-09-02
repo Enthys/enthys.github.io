@@ -1,0 +1,15 @@
+#skills {
+    justify-content: space-between !important;
+    margin-bottom: 0;
+}
+
+#skills .item {
+    text-align: center;
+    width: 25% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+#skills .item:last-child {
+    border-right: none;
+}
