@@ -23,7 +23,20 @@
     {
       "name": "KPMG",
       "position": "Senior Software Engineer",
+      "startDate": "2025-03-01",
+      "highlights": [
+        "Quickly learned, adapted to and integrated Azure as a tool both within personal and team's development. Wrote the Bicep files with which to spin up the project's environment without quickly",
+        "Led regular meetings with which to do knowledge transfers to new junior colleagues resulting in them quickly and confidently joining the team and being able to handle the development of new features"
+      ],
+      "summary": "In this role I was responsible for the development of a service which would allow insurance companies to run their clients' documents to quickly determine if the client is eligible for recompensation or any other legal matter.\nTechnical stack: <b>Azure</b>, <b>Python</b>, <b>TypeScript</b>, <b>React</b>, <b>Azure Foundry</b>, <b>Document Intelligence</b>",
+      "url": "https://www.linkedin.com/company/kpmg-bulgaria",
+      "location": "Sofia, Sofia City, Bulgaria"
+    },
+    {
+      "name": "KPMG",
+      "position": "Senior Software Engineer (Golang)",
       "startDate": "2024-03-01",
+      "endDate": "2025-03-01",
       "highlights": [
         "Created the foundation of the project on which I was assigned",
         "Provided solutions which would reduce greatly memory consumption, improve performance and allow the project to implement previously implausible functionalities"
@@ -74,20 +87,6 @@
       "location": "Sofia, Bulgaria"
     },
     {
-      "name": "Neterra",
-      "position": "PHP Developer",
-      "startDate": "2019-01-14",
-      "endDate": "2019-03-31",
-      "highlights": [
-        "Raise their project framework version from Laravel 4 to 6.",
-        "WebSocket integration for client notifications",
-        "Archivation system which archived smoothly more than 7 million records"
-      ],
-      "summary": "During my time at Neterra I was placed in their Netfleet project which tracked different company vehicles through GPS.\nLeft the company due a poor company culture fit.\nTechnical stack: <b>PHP</b>, <b>MySQL</b>, <b>Laravel</b>, <b>JavaScript</b>",
-      "url": "https://www.linkedin.com/company/70174",
-      "location": "Sofia, Bulgaria"
-    },
-    {
       "name": "XS Software",
       "position": "PHP Developer",
       "startDate": "2017-05-31",
@@ -96,7 +95,7 @@
         "Rewrote the Quest system which was responsible for revealing different parts of the UI and progressing in the game.",
         "Created the unit testing environment for the project."
       ],
-      "summary": "My first job as a Software Developer on the browser game 'KhanWars'. I was responsible for fixing bugs and creating multiple features which improved the player's gameplay.\nTechnicla stack: <b>PHP</b>, <b>MySQL</b>, <b>PHPUnit</b>, <b>JavaScript</b>",
+      "summary": "My first job as a Software Developer on the browser game 'KhanWars'. I was responsible for fixing bugs and creating multiple features which improved the player's gameplay.\nTechnical stack: <b>PHP</b>, <b>MySQL</b>, <b>PHPUnit</b>, <b>JavaScript</b>",
       "url": "https://www.linkedin.com/company/389085",
       "location": "Sofia, Bulgaria"
     }
@@ -169,12 +168,11 @@
     {
       "name": "Languages",
       "keywords": [
+        "Golang",
         "TypeScript",
         "Node.JS",
-        "Golang",
         "Python",
-        "HTML/CSS",
-        "Bash"
+        "HTML/CSS"
       ]
     },
     {
@@ -183,14 +181,12 @@
         "NestJS",
         "Vue",
         "React",
-        "Django",
         "Jest",
         "jQuery",
         "RabbitMQ",
-        "Kafka",
         "Docker",
         "Git",
-        "JWT"
+        "Azure"
       ]
     },
     {
@@ -202,7 +198,8 @@
         "Redis",
         "BoltDB",
         "BadgerDB",
-        "SQLite"
+        "SQLite",
+        "CosmosDB"
       ]
     },
     {
